@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BestFilms</string>
+    <string name="wifi_error">Произошла ошибка при загрузке данных,\nпроверьте подключение к сети</string>
+    <string name="restart">Повторить</string>
+    <string name="popular">Популярные</string>
+    <string name="favourites">Избранное</string>
+    <string name="search">Поиск</string>
+    <string name="empty">Пусто</string>
+    <string name="genre">Жанры:&#160;</string>
+    <string name="county">Страны:&#160;</string>
+</resources>
